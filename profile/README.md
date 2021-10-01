@@ -1,1 +1,1 @@
-![dahliaOS](Three_Bubbles.png)
+<img src="profile/Three_Bubbles.png" alt="dahliaOS" />
