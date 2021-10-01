@@ -1,1 +1,1 @@
-![dahliaOS](wallpaper.png)
+![dahliaOS](Three_Bubbles.png)
