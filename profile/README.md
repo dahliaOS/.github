@@ -36,9 +36,9 @@ The dahliaOS project has a number of repositories, some important ones include:
 Kv
 ## Join the community
 
-[![Discord](/assets/images/Discord.png)](https://dahliaos.io/discord)
-[![Twitter](/assets/images/Twitter.png)](https://dahliaos.io/twitter)
-[![Telegram](/assets/images/Telegram.png)](https://dahliaos.io/telegram)
-[![Instagram](/assets/images/Instagram.png)](https://dahliaos.io/instagram)
-[![Reddit](/assets/images/Reddit.png)](https://dahliaos.io/reddit)
-[![Facebook](/assets/images/Facebook.png)](https://dahliaos.io/facebook)
+[![Discord](./assets/images/Discord.png)](https://dahliaos.io/discord)
+[![Twitter](./assets/images/Twitter.png)](https://dahliaos.io/twitter)
+[![Telegram](./assets/images/Telegram.png)](https://dahliaos.io/telegram)
+[![Instagram](./assets/images/Instagram.png)](https://dahliaos.io/instagram)
+[![Reddit](./assets/images/Reddit.png)](https://dahliaos.io/reddit)
+[![Facebook](./assets/images/Facebook.png)](https://dahliaos.io/facebook)
