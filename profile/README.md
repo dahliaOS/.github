@@ -33,7 +33,7 @@ The dahliaOS project has a number of repositories, some important ones include:
 * [system_recovery](https://github.com/dahliaOS/system_recovery): Behind-the-scenes interface for recovery and developer mode on UEFI based systems.
 * [utopia](https://github.com/dahliaOS/utopia): Utopia window manager.
 * [website](https://github.com/dahliaOS/website): dahliaOS website.
-Kv
+
 ## Join the community
 
 [![Discord](https://github.com/dahliaOS/.github/blob/main/profile/assets/images/Discord.svg)](https://dahliaos.io/discord)
