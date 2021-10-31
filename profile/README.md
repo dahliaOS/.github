@@ -7,7 +7,7 @@ Learn more about the project on our [website](https://dahliaos.io/).
 
 ## Get involved
 
-If you're wondering how to contribute to the project, please refer to our [contributing guide](../CONTRIBUTING.md).
+If you're wondering how to contribute to the project, please refer to our [contributing guide](https://github.com/dahliaOS/documentation/blob/main/CONTRIBUTING.md).
 Everyone is welcome to join in!
 
 ## Documentation
