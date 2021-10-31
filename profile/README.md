@@ -36,9 +36,9 @@ The dahliaOS project has a number of repositories, some important ones include:
 Kv
 ## Join the community
 
-[![Discord](./assets/images/Discord.png)](https://dahliaos.io/discord)
-[![Twitter](./assets/images/Twitter.png)](https://dahliaos.io/twitter)
-[![Telegram](./assets/images/Telegram.png)](https://dahliaos.io/telegram)
-[![Instagram](./assets/images/Instagram.png)](https://dahliaos.io/instagram)
-[![Reddit](./assets/images/Reddit.png)](https://dahliaos.io/reddit)
-[![Facebook](./assets/images/Facebook.png)](https://dahliaos.io/facebook)
+[![Discord](https://github.com/dahliaOS/.github/blob/main/profile/assets/images/Discord.png)](https://dahliaos.io/discord)
+[![Twitter](https://github.com/dahliaOS/.github/blob/main/profile/assets/images/Twitter.png)](https://dahliaos.io/twitter)
+[![Telegram](https://github.com/dahliaOS/.github/blob/main/profile/assets/images/Telegram.png)](https://dahliaos.io/telegram)
+[![Instagram](https://github.com/dahliaOS/.github/blob/main/profile/assets/images/Instagram.png)](https://dahliaos.io/instagram)
+[![Reddit](https://github.com/dahliaOS/.github/blob/main/profile/assets/images/Reddit.png)](https://dahliaos.io/reddit)
+[![Facebook](https://github.com/dahliaOS/.github/blob/main/profile/assets/images/Facebook.png)](https://dahliaos.io/facebook)
