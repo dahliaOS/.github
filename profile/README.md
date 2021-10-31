@@ -1,4 +1,4 @@
-##dahliaOS
+## dahliaOS
 
 dahliaOS is a modern, secure, lightweight and responsive operating system, combining the best of GNU/Linux and Fuchsia OS.
 We are developing a privacy-respecting, fast, secure and lightweight operating system, our goal is to offer our users an incredible experience to help with their daily tasks.
