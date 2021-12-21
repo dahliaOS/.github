@@ -36,9 +36,16 @@ The dahliaOS project has a number of repositories, some important ones include:
 
 ## Join the community
 
-[![Discord](https://github.com/dahliaOS/.github/blob/main/profile/assets/images/Discord.svg)](https://dahliaos.io/discord)
-[![Twitter](https://github.com/dahliaOS/.github/blob/main/profile/assets/images/Twitter.svg)](https://dahliaos.io/twitter)
-[![Telegram](https://github.com/dahliaOS/.github/blob/main/profile/assets/images/Telegram.svg)](https://dahliaos.io/telegram)
-[![Instagram](https://github.com/dahliaOS/.github/blob/main/profile/assets/images/Instagram.svg)](https://dahliaos.io/instagram)
-[![Reddit](https://github.com/dahliaOS/.github/blob/main/profile/assets/images/Reddit.svg)](https://dahliaos.io/reddit)
-[![Facebook](https://github.com/dahliaOS/.github/blob/main/profile/assets/images/Facebook.svg)](https://dahliaos.io/facebook)
+[![Discord](https://github.com/dahliaOS/.github/blob/main/profile/assets/images/dark/Discord.svg#gh-dark-mode-only)](https://dahliaos.io/discord)
+[![Twitter](https://github.com/dahliaOS/.github/blob/main/profile/assets/images/dark/Twitter.svg#gh-dark-mode-only)](https://dahliaos.io/twitter)
+[![Telegram](https://github.com/dahliaOS/.github/blob/main/profile/assets/images/dark/Telegram.svg#gh-dark-mode-only)](https://dahliaos.io/telegram)
+[![Instagram](https://github.com/dahliaOS/.github/blob/main/profile/assets/images/dark/Instagram.svg#gh-dark-mode-only)](https://dahliaos.io/instagram)
+[![Reddit](https://github.com/dahliaOS/.github/blob/main/profile/assets/images/dark/Reddit.svg#gh-dark-mode-only)](https://dahliaos.io/reddit)
+[![Facebook](https://github.com/dahliaOS/.github/blob/main/profile/assets/images/dark/Facebook.svg#gh-dark-mode-only)](https://dahliaos.io/facebook)
+
+[![Discord](https://github.com/dahliaOS/.github/blob/main/profile/assets/images/light/Discord.svg#gh-light-mode-only)](https://dahliaos.io/discord)
+[![Twitter](https://github.com/dahliaOS/.github/blob/main/profile/assets/images/light/Twitter.svg#gh-light-mode-only)](https://dahliaos.io/twitter)
+[![Telegram](https://github.com/dahliaOS/.github/blob/main/profile/assets/images/light/Telegram.svg#gh-light-mode-only)](https://dahliaos.io/telegram)
+[![Instagram](https://github.com/dahliaOS/.github/blob/main/profile/assets/images/light/Instagram.svg#gh-light-mode-only)](https://dahliaos.io/instagram)
+[![Reddit](https://github.com/dahliaOS/.github/blob/main/profile/assets/images/light/Reddit.svg#gh-light-mode-only)](https://dahliaos.io/reddit)
+[![Facebook](https://github.com/dahliaOS/.github/blob/main/profile/assets/images/light/Facebook.svg#gh-light-mode-only)](https://dahliaos.io/facebook)
