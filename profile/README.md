@@ -37,10 +37,19 @@ The dahliaOS project has a number of repositories, some important ones include:
 ## Join the community
   
 <p align="center">
-  <a href="https://dahliaos.io/discord"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Discord.svg#gh-dark-mode-only"></a>
-  <a href="https://dahliaos.io/twitter"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Twitter.svg#gh-dark-mode-only"></a>
-  <a href="https://dahliaos.io/telegram"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Telegram.svg#gh-dark-mode-only"></a>
-  <a href="https://dahliaos.io/instagram"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Instagram.svg#gh-dark-mode-only"></a>
-  <a href="https://dahliaos.io/reddit"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Reddit.svg#gh-dark-mode-only"></a>
-  <a href="https://dahliaos.io/facebook"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Facebook.svg#gh-light-mode-only"></a>
+  <a href="https://dahliaos.io/discord#gh-dark-mode-only"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Discord.svg"></a>
+  <a href="https://dahliaos.io/twitter#gh-dark-mode-only"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Twitter.svg"></a>
+  <a href="https://dahliaos.io/telegram#gh-dark-mode-only"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Telegram.svg"></a>
+  <a href="https://dahliaos.io/instagram#gh-dark-mode-only"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Instagram.svg"></a>
+  <a href="https://dahliaos.io/reddit#gh-dark-mode-only"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Reddit.svg"></a>
+  <a href="https://dahliaos.io/facebook#gh-dark-mode-only"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/dark/Facebook.svg"></a>
+<p>
+  
+<p align="center">
+  <a href="https://dahliaos.io/discord#gh-light-mode-only"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/light/Discord.svg"></a>
+  <a href="https://dahliaos.io/twitter#gh-light-mode-only"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/light/Twitter.svg"></a>
+  <a href="https://dahliaos.io/telegram#gh-light-mode-only"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/light/Telegram.svg"></a>
+  <a href="https://dahliaos.io/instagram#gh-light-mode-only"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/light/Instagram.svg"></a>
+  <a href="https://dahliaos.io/reddit#gh-light-mode-only"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/light/Reddit.svg"></a>
+  <a href="https://dahliaos.io/facebook#gh-light-mode-only"><img height="15%" src="https://raw.githubusercontent.com/dahliaOS/.github/main/profile/assets/images/light/Facebook.svg"></a>
 <p>
