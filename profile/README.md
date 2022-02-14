@@ -29,9 +29,9 @@ The dahliaOS project has a number of repositories, some important ones include:
 * [files](https://github.com/dahliaOS/files): File manager.
 * [fimage](https://github.com/dahliaOS/fimage): Portable Fuchsia emulator.
 * [graft](https://github.com/dahliaOS/graft): Tool to manange virtual machines and containers on dahliaOS.
-* [terminal](https://github.com/dahliaOS/terminal): dahliaOS Terminal application.
 * [pangolin_desktop](https://github.com/dahliaOS/pangolin_desktop): Pangolin Desktop UI shell.
 * [system_recovery](https://github.com/dahliaOS/system_recovery): Behind-the-scenes interface for recovery and developer mode on UEFI based systems.
+* [terminal](https://github.com/dahliaOS/terminal): dahliaOS Terminal application.
 * [utopia](https://github.com/dahliaOS/utopia): Utopia window manager.
 * [website](https://github.com/dahliaOS/website): dahliaOS website.
 
