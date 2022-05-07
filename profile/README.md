@@ -1,14 +1,14 @@
 ## dahliaOS
 
 dahliaOS is a modern, secure, lightweight and responsive operating system, combining the best of GNU/Linux and Fuchsia OS.
-We are developing a privacy-respecting, fast, secure and lightweight operating system, our goal is to offer our users an incredible experience to help with their daily tasks.
+We are developing a privacy-respecting, fast, secure and lightweight operating system, our goal is to establish a new standard for the desktop platform.
 Learn more about the project on our [website](https://dahliaos.io/).
 
 
 ## Get involved
 
 If you're wondering how to contribute to the project, please refer to our [contributing guide](https://docs.dahliaos.io/contribute/contributing).
-Everyone is welcome to join in!
+Everyone is welcome to join!
 
 ## Documentation
 
@@ -16,11 +16,11 @@ dahliaOS documentation can be found [here](https://docs.dahliaos.io).
 
 ## Download
 
-You can download dahliaOS by clicking [here](https://dahliaos.io/download).
+Downloads can be found [here](https://dahliaos.io/download).
 
 ## Repositories
 
-The dahliaOS project has a number of repositories, some important ones include:
+The dahliaOS project has a number of repositories, some notable ones include:
 
 <!-- alphabetical -->
 * [buildroot](https://github.com/dahliaOS/buildroot): Configure and build dahliaOS Linux-based builds.
