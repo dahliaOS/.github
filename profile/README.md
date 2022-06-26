@@ -23,6 +23,7 @@ Downloads can be found [here](https://dahliaos.io/download).
 The dahliaOS project has a number of repositories, some notable ones include:
 
 <!-- alphabetical -->
+* [app_store](https://github.com/dahliaOS/app_store): dahliaOS App store.
 * [buildroot](https://github.com/dahliaOS/buildroot): Configure and build dahliaOS Linux-based builds.
 * [dap](https://github.com/dahliaOS/dap): Dart-based package manager for dahliaOS.
 * [documentation](https://github.com/dahliaOS/documentation): Documentation for dahliaOS.
@@ -34,6 +35,7 @@ The dahliaOS project has a number of repositories, some notable ones include:
 * [terminal](https://github.com/dahliaOS/terminal): dahliaOS Terminal application.
 * [utopia](https://github.com/dahliaOS/utopia): Utopia window manager.
 * [website](https://github.com/dahliaOS/website): dahliaOS website.
+* [welcome](https://github.com/dahliaOS/welcome): dahliaOS Welcome application.
 
 ## Join the community
   
