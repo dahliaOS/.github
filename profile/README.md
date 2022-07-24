@@ -29,6 +29,7 @@ The dahliaOS project has a number of repositories, some notable ones include:
 
 <!-- alphabetical -->
 * [app_store](https://github.com/dahliaOS/app_store): Curated marketplace for third-party applications on dahliaOS.
+* [blog](https://github.com/dahliaOS/blog): Blog for dahliaOS.
 * [buildroot](https://github.com/dahliaOS/buildroot): Configure and build dahliaOS Linux-based builds.
 * [dap](https://github.com/dahliaOS/dap): Dart-based package manager for dahliaOS.
 * [documentation](https://github.com/dahliaOS/documentation): Documentation for dahliaOS.
