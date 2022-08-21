@@ -1,6 +1,6 @@
 <p align="center">
-  <img width="80%" src="https://github.com/dahliaOS/brand/blob/main/assets/dahliaos/banner/colored.svg#gh-dark-mode-only" />
-  <img width="80%" src="https://github.com/dahliaOS/brand/blob/main/assets/dahliaos/banner/colored.svg#gh-light-mode-only" />
+  <img width="60%" src="https://github.com/dahliaOS/brand/blob/main/dahliaOS/logotype/svg/logotype-dark.svg#gh-dark-mode-only" />
+  <img width="60%" src="https://github.com/dahliaOS/brand/blob/main/dahliaOS/logotype/svg/logotype-light.svg#gh-light-mode-only" />
 </p>
 
 # dahliaOS
@@ -12,7 +12,7 @@ Learn more about the project on our [website](https://dahliaos.io/).
 
 ## Get involved
 
-If you're wondering how to contribute to the project, please refer to our [contributing guide](https://docs.dahliaos.io/contribute/contributing).
+If you're wondering how to contribute to the project, please refer to our [contributing guide](https://docs.dahliaos.io/contribute/contribute).
 Everyone is welcome to join!
 
 ## Documentation
@@ -41,7 +41,6 @@ The dahliaOS project has a number of repositories, some notable ones include:
 * [terminal](https://github.com/dahliaOS/terminal): dahliaOS Terminal application.
 * [utopia](https://github.com/dahliaOS/utopia): Utopia window manager.
 * [website](https://github.com/dahliaOS/website): dahliaOS website.
-* [welcome](https://github.com/dahliaOS/welcome): dahliaOS Welcome application.
 
 ## Join the community
   
