@@ -42,6 +42,8 @@ The dahliaOS project has a number of repositories, some notable ones include:
 * [terminal](https://github.com/dahliaOS/terminal): dahliaOS Terminal application.
 * [utopia](https://github.com/dahliaOS/utopia): Utopia window manager.
 * [website](https://github.com/dahliaOS/website): dahliaOS website.
+* [zenitUI](https://github.com/dahliaOS/zenit_ui): ZenitUI library for Flutter.
+* [zenitUI CSS](https://github.com/dahliaOS/zenit_ui_css): ZenitUI library for CSS.
 
 ## Join the community
   
